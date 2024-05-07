@@ -1,0 +1,16 @@
+our boggle game has some features that make the game clear and understandable.
+
+1.first there is an instructions button that describes the rules of the game so the player will know for what words
+he can get score for and what is count as a valid word.
+
+2.there is a scrollbar for the list box that allowed the player to see what words did he already found and
+its presents it in clean and readable way.
+
+3.if the player taps on the reset button by accident it raises a pop up message to him and ensure that the player 
+wants to start over or does he wants to keep with the current game.
+
+4.at the end of the game there is a pop up message asking the player if he wants to start a new game or wants to 
+leave. in case he choose to play again the game is reset and otherwise the game is close.
+
+  
+
